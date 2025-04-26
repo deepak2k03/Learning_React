@@ -1,0 +1,13 @@
+section {
+  justify-content: space-between;
+  align-items: center;
+  gap: 60px;
+  max-width: 1200px;
+  margin: 100px auto 0;
+  display: flex;
+}
+
+button img {
+  width: 50px;
+}
+/*# sourceMappingURL=Using Images in React.aa436662.css.map */
